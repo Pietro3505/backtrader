@@ -1,0 +1,1 @@
+This archive contains all scripts to run and deploy the 200 EMA / Volume Oscillator / MACD trading bot using Python.
